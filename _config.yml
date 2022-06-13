@@ -60,4 +60,4 @@ google_analytics_ua:
 # Style Variables
 brand_color: "#DA253B"
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
