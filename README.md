@@ -33,4 +33,4 @@
   
 ## 其他軟體  
 ### Adobe Substance 3D Painter  
-♦[Painter to Unity 材質模板](/Wiki/其他軟體/AdobeSubstance3DPainter/AdobeSubstance3DPainter/)  
+♦[Painter to Unity 材質模板](/Wiki/其他軟體/AdobeSubstance3DPainter/AdobeSubstance3DPainter.md/)  
