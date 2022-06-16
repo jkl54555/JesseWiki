@@ -4,7 +4,7 @@
 ***  
   
 ## 開發日記  
-♦[MR Platform](/Wiki/開發日記/MRPlatform.md/)  
+♦[diary](/Wiki/開發日記/diary.md/)  
   
   
 ## 程式語言  
