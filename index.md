@@ -3,8 +3,8 @@
   
 ***  
   
-## 開發日記  
-♦[diary](/Wiki/開發日記/diary.md/)  
+## 日記  
+♦[Diary](/Wiki/開發日記/Diary.md/)  
   
   
 ## 程式語言  
